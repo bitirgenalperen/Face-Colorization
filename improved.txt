@@ -1,0 +1,16 @@
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 8 :: learning_rate: 0.07 :: batchnorm: False :: tanh: True
+epoch: 100 :: acc: 0.7543457291666661 :: loss: 0.008403356689959764
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 8 :: learning_rate: 0.07 :: batchnorm: True :: tanh: False
+epoch: 93 :: acc: 0.6401463281250005 :: loss: 0.012353427663445472
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 8 :: learning_rate: 0.07 :: batchnorm: True :: tanh: True
+epoch: 98 :: acc: 0.6352000000000017 :: loss: 0.01249246058985591
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 16 :: learning_rate: 0.07 :: batchnorm: False :: tanh: True
+epoch: 94 :: acc: 0.7582961197916667 :: loss: 0.008283846527338028
+*********************

@@ -1,0 +1,24 @@
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 4 :: learning_rate: 0.007
+epoch: 59 :: acc: 0.7223844010416675 :: loss: 0.00981603679433465
+*********************
+*********************
+layer_count: 4 :: kernel_size: 5 :: kernel_count: 4 :: learning_rate: 0.007
+epoch: 99 :: acc: 0.7185400520833327 :: loss: 0.010065350171178579
+*********************
+*********************
+layer_count: 2 :: kernel_size: 3 :: kernel_count: 4 :: learning_rate: 0.007
+epoch: 23 :: acc: 0.6866591406249993 :: loss: 0.011722700305283069
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 8 :: learning_rate: 0.007
+epoch: 41 :: acc: 0.7127585416666667 :: loss: 0.010620420198887587
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 4 :: learning_rate: 0.07
+epoch: 100 :: acc: 0.7566641145833312 :: loss: 0.00835728457570076
+*********************
+*********************
+layer_count: 2 :: kernel_size: 5 :: kernel_count: 4 :: learning_rate: 0.0007
+epoch: 100 :: acc: 0.6231892968750001 :: loss: 0.0178641844317317
+*********************
